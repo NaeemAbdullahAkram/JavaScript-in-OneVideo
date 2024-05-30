@@ -1,5 +1,6 @@
 # JavaScript-with-Clean-Code
 
+<h3>#JavaScript series</h3>
 
 ## Table of Contents
 
